@@ -1,0 +1,4 @@
+crewai
+unstructured
+langchain
+langchain-community
